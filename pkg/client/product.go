@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"order/service/pkg/config"
-	"product/service/pkg/pb"
+	pb "order/service/pkg/pb/product"
 
 	"google.golang.org/grpc"
 )
